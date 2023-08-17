@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toaly&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toaly&show_icons=true&theme=radical)
